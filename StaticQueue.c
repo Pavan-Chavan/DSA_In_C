@@ -1,3 +1,7 @@
+//Title:- Static Queue
+// coder:- Pavan Chavan
+// Email:- pavan.21920161@viit.ac.in
+
 #include<stdio.h>
 #define SIZE 5
 
