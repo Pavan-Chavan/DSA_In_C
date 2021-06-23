@@ -1,3 +1,7 @@
+//Title:- Dyanamic Stack
+// coder:- Pavan Chavan
+// Email:- pavan.21920161@viit.ac.in
+
 #include<stdio.h>
 
 int *stack, *top ,curr,min;
