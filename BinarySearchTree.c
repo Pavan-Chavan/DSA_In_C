@@ -1,3 +1,5 @@
+//this need some work it showing error in delete and postPrint
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Node *root;
